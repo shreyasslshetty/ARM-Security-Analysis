@@ -2,6 +2,10 @@
 
 This project is a security analysis of IoT Fitness devices using ARM Cortex M0 Architecture.
 
+# Research Report Available
+
+- Shreyas-Shetty-Git-Report.pdf
+
 # Install packages (Bluepy, CRC)
 
 Command: pip install -r packages.txt
@@ -15,6 +19,6 @@ Command: pip install -r packages.txt
 4. Authenticate Linux Syster with Mi Band 3 device
 -  Command: python main.py MAC_ADDRESS --init
 
-# BLE glitch issues?If you having problems(BLE can glitch sometimes)
+# BLE glitch issues? Try command below
 
-- Use Command: sudo hciconfig hci0 reset
+- Command: sudo hciconfig hci0 reset
