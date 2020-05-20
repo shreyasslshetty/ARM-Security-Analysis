@@ -1,5 +1,7 @@
 # ARM-Security-Analysis
 
+This project is a security analysis of IoT Fitness devices using ARM Cortex M0 Architecture.
+
 # Install packages (Bluepy, CRC)
 
 Command: pip install -r packages.txt
